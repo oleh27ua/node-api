@@ -14,7 +14,7 @@ MONGODB_URI = mongodb+srv://<username>:<password>@mongodburlhere
 ## Installation
 To install dependencies for this project run the following command:
 ```
-$ npm install
+npm install
 ```
 
 After installing necessary dependencies you can start your server running the command below:
