@@ -1,0 +1,14 @@
+body {
+  font-size: .875rem;
+  background-color: #272727;
+  color: #ffffff
+}
+
+
+#aboutImg {
+  border-radius: 19px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#aboutImg:hover {opacity: 0.7;}
