@@ -19,7 +19,7 @@ $ npm install
 
 After installing necessary dependencies you can start your server running the command below:
 ```
-$ npm start
+npm start
 ```
 
 ## Deploying to Google App Engine
@@ -32,10 +32,10 @@ env_variables:
 
 Now you can deploy your app using the command below:
 ```
-$ gcloud app deploy
+gcloud app deploy
 ```
 
 If you want to stream the logs from a Google App Engine application to your console, use the following command:
 ```
-$ gcloud app logs tail -s default
+gcloud app logs tail -s default
 ```
